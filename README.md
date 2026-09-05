@@ -60,8 +60,8 @@ The pipeline is tailored for the **TexNet** dataset but can be adapted to other 
 
 ### Clone the repository
 ```bash
-git clone https://github.com/guoguo-seismic/SeisPipe-DBMA.git
-cd SeisPipe-DBMA
+git clone https://github.com/ChaoFu-imu/PassiveSeisEnvD.git
+cd PassiveSeisEnvD
 
 ### Set up a conda environment (recommended)
 ```bash
