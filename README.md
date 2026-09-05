@@ -1,4 +1,4 @@
-# SeisPipe-DBMA
+# PassiveSeisEnvD
 **Seismic Processing Pipeline with DBMANet, GaMMA & ADLoc**
 A modular workflow for automatic phase picking, association, and location of microseismic and local earthquakes.
 
@@ -9,7 +9,7 @@ A modular workflow for automatic phase picking, association, and location of mic
 
 ##  Overview
 
-**SeisPipe‑DBMA** is an end‑to‑end earthquake location pipeline designed for dense seismic networks. It integrates:
+**PassiveSeisEnvD** is an end‑to‑end earthquake location pipeline designed for dense seismic networks. It integrates:
 
 - **DBMANet** – A deep‑learning phase picker based on Dilated Convolutions and Bidirectional Mamba, achieving high sensitivity for P and S arrivals.
 - **GaMMA** – A Gaussian Mixture Model‑based associator that robustly links picks to events.
